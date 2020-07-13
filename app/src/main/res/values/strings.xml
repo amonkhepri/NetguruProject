@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NetguruProject</string>
+    <string name="compass_dial">Compass Dial</string>
 </resources>
